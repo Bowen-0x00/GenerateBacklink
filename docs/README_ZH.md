@@ -22,7 +22,9 @@
 #### 动作
 [add image and link by json.json](../actions/视频摘录/add%20image%20and%20link%20by%20json.json)、[add image and link by url.json](../actions/视频摘录/add%20image%20and%20link%20by%20url.json)
 
-或者 [add image and link by url.json](https://getquicker.net/Sharedaction?code=674227a5-eede-4b6b-7e5a-08dc1f70b83a)、
+或者我已经分享的：
+
+[add image and link by url.json](https://getquicker.net/Sharedaction?code=674227a5-eede-4b6b-7e5a-08dc1f70b83a)、
 [add image and link by json.json](https://getquicker.net/Sharedaction?code=9e0fe189-dcb2-4e9b-7e5b-08dc1f70b83a)
 
 #### potplayer设置
@@ -34,7 +36,9 @@
 
 ### PPT摘录
 
-- 动作：[get current slide link.json](../actions/PPT摘录/get%20current%20slide%20link.json)
+#### 动作
+
+[get current slide link.json](../actions/PPT摘录/get%20current%20slide%20link.json)
 
 ## 问题、反馈、创意
 
